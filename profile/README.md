@@ -36,7 +36,11 @@ Identical to llama.cpp's recorded answers, then made fast with threads and SIMD 
 
 | | |
 |---|---|
-| **[browseML](https://github.com/browseML/browseML)** | the engine for the browser, its runtime, the landing page, ultimate-clientside, and the model |
+| **[browseML](https://github.com/browseML/browseML)** | the product: the engine for the browser, its runtime, the page, the control panel |
+| **[models](https://github.com/browseML/models)** | verified model copies — a second source beside Hugging Face — and the scripts that check them |
+| **[webgpu](https://github.com/browseML/webgpu)** | exact WebGPU kernels, held bit for bit to bankML's reference, and the test that proves it on your GPU |
+| **[persona](https://github.com/browseML/persona)** | who browseML is and the facts it answers from, short and checked |
+| **[embeddings](https://github.com/browseML/embeddings)** | search in the browser: BM25 as bankML's Savante scores it, fusion with meaning next |
 
 ### Try it
 
